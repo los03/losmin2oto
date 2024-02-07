@@ -430,7 +430,7 @@ def loadConfig():
             + Fore.RESET
             + get_string("register_warning"))
 
-        username ="loslos03"
+        username ="los06"
 
         if xxhash_enabled:
             print(
@@ -542,7 +542,7 @@ def loadConfig():
 
         # Format data
         config["Duino-Coin-PC-Miner"] = {
-            "username":         "loslos03",
+            "username":         "los06",
             "efficiency":       "95",
             "threads":          "4",
             "requested_diff":   "3",
